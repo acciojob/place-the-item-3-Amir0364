@@ -1,2 +1,42 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	font-size: 40px;
+	text-align: center;
+	
+	
+}
+.eg1{
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+	padding-top: 20p
+	
+}
+.eg2{
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+	
+}
+.eg3{
+	background-color: gray;
+	width: 100px;
+	height: 100px;
+	
+}
+.eg4{
+	background-color: green;
+	width: 100px;
+	height: 100px;
+	
+}
+.eg5{
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	
+}
